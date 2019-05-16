@@ -10,4 +10,5 @@ This is for Django learning purpose only
 Following this tutorial step by step : [https://docs.djangoproject.com/en/2.2/intro/tutorial01/](https://docs.djangoproject.com/en/2.2/intro/tutorial01/)
 
 # Address Book App
-This is a simple practise app
+This is a simple practise app - rest + reactjs
+1. pip install djangorestframework django-cors-headers
