@@ -8,5 +8,8 @@ class Contact(models.Model):
     email = models.EmailField(null=True, blank=True)
     address = models.TextField(null=True, blank=True)
 
+    def __str__(self):
+        return self.name
+
     class Meta:
         db_table = "addressBook_contact"
