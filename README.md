@@ -5,7 +5,7 @@ This is for Django learning purpose only
 2. Start the server: python manage.py runserver
 3. Admin: http://localhost:8000/admin (admin/password)
 4. Polls App: http://localhost:8000/polls/
-5. Address book App Rest: http://localhost:8000/contacts/
+5. Address book App Rest: http://localhost:8000/api/contacts/
 5. Address book App frontend: http://localhost:3000
 
 # Polls App
