@@ -8,5 +8,5 @@ router.register(r'contacts', views.ContactsView)
 
 app_name = 'addressBook'
 urlpatterns = [
-    path('', include(router.urls)),
+    path('', include(router.urls), name="contact-list"),
 ]
